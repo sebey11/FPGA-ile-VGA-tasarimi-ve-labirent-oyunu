@@ -38,6 +38,27 @@ Vga modları bilgisayarın çözünürlüklerine göre değişmektedir.
 ![image](https://user-images.githubusercontent.com/45830441/59140661-5d576e00-89a9-11e9-908b-5c7e4eb8c0d2.png)
 ![image](https://user-images.githubusercontent.com/45830441/59140663-621c2200-89a9-11e9-981a-5e4f39c99dfc.png)
 
+
+## PLL (Phase Lock Loop) Oluşturma
+   Bir faz-kilitli halka veya faz kilit çengeli ( PLL ), kontrol sistemi, bir çıkı¸s üreten bir
+sinyal fazı, giri¸s sinyalinin faz ile ilgilidir. Birkaç farklı tip var; en basit olanı bir geri
+besleme döngüsünde değişken frekanslı bir osilatör ve bir faz dedektöründen olu¸san bir
+elektronik devredir . Osilatör periyodik bir sinyal üretir ve faz detektörü bu sinyalin fazını
+giriş periyodik sinyalin fazıyla kar¸sıla¸stırır, osilatörü fazları eşleştirecek şekilde ayarlar.
+
+   Giriş ve çıkış  fazının kilitli adımda tutulması, giriş ve çıkış frekanslarının aynı tutulması
+anlamına gelir. Sonuç olarak, sinyalleri senkronize etmenin yanı sıra, faz kilitli bir döngü
+bir girişş frekansını izleyebilir veya giriş frekansının bir katı olan bir frekans üretebilir.
+Bu özellikler bilgisayar saati senkronizasyonu, demodülasyonu ve frekans sentezi için
+kullanılır.
+
+
+   Proje kapsamında Qsys Tool’unu kullanarak Altera PLL ekliyerek gerekli sinyallerin
+senkronizasyonu sğlandı.Proje de kullanılacak olan  PLL’i aşaamalı olarak anlatarak
+gerçekletirelim.
+
+
+
 ## Proje Aşamalası-1
 Projede vga  modülünü aktifleştirmek için en gerekli olan BLANK  sinyali tanımlanmalıdır. 
 
