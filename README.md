@@ -74,11 +74,11 @@ göre pin ataması yapılacaktır.
 
 - Vga üzerinden monitöre aktarılması istenen sinyal için çıkış frekansının ayarlanması
 gerekmektedir.Kullanılan pll için çıktı frekansı 108 Hz yazılması sırasında
-yukarıda geçersiz olduğuna dair uyarı verilmi¸stir. Bu yüzden geçerli olan frekans
-değeri verilmi¸stir.
+yukarıda geçersiz olduğuna dair uyarı verilmiştir. Bu yüzden geçerli olan frekans
+değeri verilmiştir.
 ![image](https://user-images.githubusercontent.com/45830441/59141040-acec6880-89ae-11e9-8b28-22b54ef645f7.png)
 
--Gerekli ayarlamalar yapıldıktan sonra en son olarak export kısımnda istenen pin
+- Gerekli ayarlamalar yapıldıktan sonra en son olarak export kısımnda istenen pin
 tanımlama için gerekli isimler verilerek giriş-çıkışlar belirlenir.
 ![image](https://user-images.githubusercontent.com/45830441/59141042-b1b11c80-89ae-11e9-8b39-6e113482ed3d.png)
 
@@ -86,10 +86,12 @@ tanımlama için gerekli isimler verilerek giriş-çıkışlar belirlenir.
 
 - Eklenen her birime System->Assign Base Addresses kısmından adres ataması yapılması
 gerekmektedir.
+
 ![image](https://user-images.githubusercontent.com/45830441/59141043-b544a380-89ae-11e9-82cc-666842a775c1.png)
 
-Yapılan işlemlerGeneration kısımdan kaydedilerek derlenir herhangi bir hata olup
+- Yapılan işlemler Generation kısımdan kaydedilerek derlenir herhangi bir hata olup
 olmadığı bu aşama sonunda anlaşılır.
+
 ![image](https://user-images.githubusercontent.com/45830441/59141044-b83f9400-89ae-11e9-8ba2-9b8318327722.png)
 
 
@@ -97,6 +99,7 @@ olmadığı bu aşama sonunda anlaşılır.
 
 - Oluşturulan PLL dosyası projeye Project->Add/Remove Files in Project.. kısımdan
 eklenir.
+
 ![image](https://user-images.githubusercontent.com/45830441/59141045-bc6bb180-89ae-11e9-8ddf-c22d9c4b2ac0.png)
 
 
@@ -106,8 +109,9 @@ yöntemiylede projeye farklı vhd dosyası eklenebilmektedir.
 
 ![image](https://user-images.githubusercontent.com/45830441/59141047-c097cf00-89ae-11e9-8c48-e30a17462f61.png)
 
--Asıl derlenen proje dosyasında tanımlanmış olan giriş ve çıkışlar proje içerisine
+- Asıl derlenen proje dosyasında tanımlanmış olan giriş ve çıkışlar proje içerisine
 entegre edilen pll ve sync dosyasına gönderilmektedir.
+
 ![image](https://user-images.githubusercontent.com/45830441/59141048-c4c3ec80-89ae-11e9-8b10-ea0ba877726a.png)
 
 - Son aşama olarak progamın doğru derleme sonucunda 1. kısımda görüldüğü gibi
