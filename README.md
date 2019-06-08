@@ -18,4 +18,4 @@ Yatay senkronizasyon (Horizontal synchronization) ve Düşey senkronizasyon (Ver
 Red, Green ve Blue sinyallerinden oluşur.  0- 0,7 volt arasında değişen analog sinyallerdir. Her bir sinyaldeki farklı voltaj değeri o rengin farklı tonlarını ifade etmektedir.
 
 Üç bit VGA renk kombinasyonu
-![metin](C:\Users\Sedef\Desktop\Final Projesi\baslangic.JPG)
+
