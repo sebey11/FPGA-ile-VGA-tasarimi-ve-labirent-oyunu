@@ -19,4 +19,10 @@ Red, Green ve Blue sinyallerinden oluşur.  0- 0,7 volt arasında değişen anal
 
 Üç bit VGA renk kombinasyonu
 
+![image](https://user-images.githubusercontent.com/45830441/59140624-018ce500-89a9-11e9-9d20-f02ab097797e.png)
+
+
+
+
+
 ![k_yukari](https://user-images.githubusercontent.com/45830441/59140611-d1454680-89a8-11e9-8359-52b104211fb0.JPG)
