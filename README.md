@@ -8,8 +8,13 @@ Ekrana görüntü basma  işlemi tarama şeklinde olur. ilk piksel ekranın sol 
 VGA'de 2 adet  sinyal tipi vardır. 
 Kontrol sinyalleri
 Yatay senkronizasyon (Horizontal synchronization) ve Düşey senkronizasyon (Vertical synchronization) sinyallerindn oluşur. Dijital sinyallerdir.
-•	Horizontal synchronization: Yatay konumda piksel işaretcisinin ekranın sol kısmına    geldiğinde, işaretleyici bir alt satıra geçmesini sağlayan kontroldür.
-•	Verticak synchronization: Ekrana piksel basma olayı  bittikten sonra piksel işaretcisinin tekrar ilk başlanılan noktaya geri dönmesini sağlayan  kontroldür.
-Video sinyalleri
+
+
+-	Horizontal synchronization: Yatay konumda piksel işaretcisinin ekranın sol kısmına    geldiğinde, işaretleyici bir alt satıra geçmesini sağlayan kontroldür.
+
+-	Verticak synchronization: Ekrana piksel basma olayı  bittikten sonra piksel işaretcisinin tekrar ilk başlanılan noktaya geri dönmesini sağlayan  kontroldür.
+
+### Video sinyalleri
 Red, Green ve Blue sinyallerinden oluşur.  0- 0,7 volt arasında değişen analog sinyallerdir. Her bir sinyaldeki farklı voltaj değeri o rengin farklı tonlarını ifade etmektedir.
+
 Üç bit VGA renk kombinasyonu
