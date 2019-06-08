@@ -90,9 +90,10 @@ Kutu konumları  önceden tanımlanır. Kutumuz default olarak Başlangıç nokt
 
 ![image](https://user-images.githubusercontent.com/45830441/59140788-094d8900-89ab-11e9-9443-769c2c2bca56.png)
 
-
+Aşağıdaki şekilde kutunun default olarak başlangıç konumda gelmektedir.
 ![image](https://user-images.githubusercontent.com/45830441/59140792-0c487980-89ab-11e9-8353-f1ac90a791d4.png)
 
+Tasarlanan engeller çizilmiştir.
 ![image](https://user-images.githubusercontent.com/45830441/59140795-123e5a80-89ab-11e9-8841-c43150903ed8.png)
 
 ![image](https://user-images.githubusercontent.com/45830441/59140797-14a0b480-89ab-11e9-94ef-efa3dbaea8b0.png)
