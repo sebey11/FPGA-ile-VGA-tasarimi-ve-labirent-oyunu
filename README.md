@@ -44,10 +44,15 @@ Projede vga  modülünü aktifleştirmek için en gerekli olan BLANK  sinyali ta
 
 ![image](https://user-images.githubusercontent.com/45830441/59140709-ed95b300-89a9-11e9-9d15-f77a4b1a11d0.png)
 
+Proje kapsamında 1280 x 1024 çözünürlüğü ve 60 Hz frekansı kullanılmıştır. PLL oluşturulurken piksel frekansı 108 MHz olarak ayarlanmalıdır.
+
 ![image](https://user-images.githubusercontent.com/45830441/59140723-22a20580-89aa-11e9-93a2-fc1a0aa908fb.png)
+
+Çözünürlügü 1280 x 1024 piksel olan videonun senkronizasyonlarını sağlayabilmek için program içerisinde çe¸sitli sabitler tanımlanmalıdır.
 
 ![image](https://user-images.githubusercontent.com/45830441/59140726-27ff5000-89aa-11e9-9312-c990f51760b8.png)
 
+Aşağıdaki şekilde olduğu gibi projede gerekli tanımlamalar yapılmıştr. 
 ![image](https://user-images.githubusercontent.com/45830441/59140729-2d5c9a80-89aa-11e9-8bb0-834ae5c134d2.png)
 
 
