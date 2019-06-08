@@ -28,11 +28,14 @@ Red, Green ve Blue sinyallerinden oluşur.  0- 0,7 volt arasında değişen anal
 
 
 
--•	Görüntü: Görüntünün gösterildiği kısım.
--•	Geri kayma:Piksel işaretcisinin tekrar yatay olarak sol tarafa geldiği alan. Video sinyali bu kısımda ekrana basılmaması gerekir.
--•	Front porch (Geri kaydırma işleminden önceki) Ekranın sağ sınır alanı olarak tanımlanır. Video sinyali bu kısımda ekrana basılmaması gerekir.
--•	Back porch(Geri kaydırma işleminden sonraki) Ekranın sol sınır alanı olarak tanımlanır. Video sinyali bu kısımda ekrana basılmaması gerekir.
+- Görüntü: Görüntünün gösterildiği kısım.
+-	Geri kayma:Piksel işaretcisinin tekrar yatay olarak sol tarafa geldiği alan. Video sinyali bu kısımda ekrana basılmaması gerekir.
+-	Front porch (Geri kaydırma işleminden önceki) Ekranın sağ sınır alanı olarak tanımlanır. Video sinyali bu kısımda ekrana basılmaması gerekir.
+-	Back porch(Geri kaydırma işleminden sonraki) Ekranın sol sınır alanı olarak tanımlanır. Video sinyali bu kısımda ekrana basılmaması gerekir.
 
+![image](https://user-images.githubusercontent.com/45830441/59140654-4f095200-89a9-11e9-9c80-fa80181f8299.png)
+![image](https://user-images.githubusercontent.com/45830441/59140661-5d576e00-89a9-11e9-908b-5c7e4eb8c0d2.png)
+![image](https://user-images.githubusercontent.com/45830441/59140663-621c2200-89a9-11e9-981a-5e4f39c99dfc.png)
 
 
 ![k_yukari](https://user-images.githubusercontent.com/45830441/59140611-d1454680-89a8-11e9-8359-52b104211fb0.JPG)
