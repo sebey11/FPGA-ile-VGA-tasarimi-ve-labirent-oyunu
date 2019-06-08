@@ -23,6 +23,16 @@ Red, Green ve Blue sinyallerinden oluşur.  0- 0,7 volt arasında değişen anal
 
 
 
+## VGA senkronizasyonu
+### Yatay senkronizasyon (Horizontal synchronization)
+
+
+
+-•	Görüntü: Görüntünün gösterildiği kısım.
+-•	Geri kayma:Piksel işaretcisinin tekrar yatay olarak sol tarafa geldiği alan. Video sinyali bu kısımda ekrana basılmaması gerekir.
+-•	Front porch (Geri kaydırma işleminden önceki) Ekranın sağ sınır alanı olarak tanımlanır. Video sinyali bu kısımda ekrana basılmaması gerekir.
+-•	Back porch(Geri kaydırma işleminden sonraki) Ekranın sol sınır alanı olarak tanımlanır. Video sinyali bu kısımda ekrana basılmaması gerekir.
+
 
 
 ![k_yukari](https://user-images.githubusercontent.com/45830441/59140611-d1454680-89a8-11e9-8359-52b104211fb0.JPG)
