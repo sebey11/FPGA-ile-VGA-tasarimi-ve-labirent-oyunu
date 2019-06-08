@@ -122,10 +122,14 @@ Buton hareketleri aşağıda anlatılmıştır.
 
 ![image](https://user-images.githubusercontent.com/45830441/59140803-297d4800-89ab-11e9-85f0-78109d531f45.png)
 
-Yukarı durumda yapılması gereken kontrol, kutunun üst tarafı yani KareVPOS1 kısmı ile kolonun V2 aynı olduğu zaman ve kutunun  kolonun her kısmında geçmesini istemediğim için geniş skala olarak HPOS1 ve HPOS2 arası belirlenir. 
+Yukarı durumda yapılması gereken kontrol, kutunun üst tarafı yani KareVPOS1 kısmı ile kolonun V2 aynı olduğu zaman ve kutunun  kolonun her kısmında geçmesini istemediğim için geniş skala olarak HPOS1 ve HPOS2 arası belirlenir.
+
 ![image](https://user-images.githubusercontent.com/45830441/59140804-2c783880-89ab-11e9-855b-e3f333032c82.png)
 
+
 Aynı işlemi aşağı buton için gerçekleştirilirken kutunun üst tarafta olma durumu için kutunun KareVPOS2 ‘ nin kolonun V1 koordinatı ile aynı olma durumuna bakılır.
+
+
 ![image](https://user-images.githubusercontent.com/45830441/59140806-300bbf80-89ab-11e9-99af-005969c1e15b.png)
 
 
