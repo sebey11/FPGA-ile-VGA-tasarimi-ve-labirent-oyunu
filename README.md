@@ -48,7 +48,7 @@ Proje kapsamında 1280 x 1024 çözünürlüğü ve 60 Hz frekansı kullanılmı
 
 ![image](https://user-images.githubusercontent.com/45830441/59140723-22a20580-89aa-11e9-93a2-fc1a0aa908fb.png)
 
-Çözünürlügü 1280 x 1024 piksel olan videonun senkronizasyonlarını sağlayabilmek için program içerisinde çe¸sitli sabitler tanımlanmalıdır.
+Çözünürlügü 1280 x 1024 piksel olan videonun senkronizasyonlarını sağlayabilmek için program içerisinde çeşitli sabitler tanımlanmalıdır.
 
 ![image](https://user-images.githubusercontent.com/45830441/59140726-27ff5000-89aa-11e9-9312-c990f51760b8.png)
 
@@ -79,13 +79,18 @@ monitöre aktarılmıştır.
 ![image](https://user-images.githubusercontent.com/45830441/59140777-f89d1300-89aa-11e9-886b-cf2786c9ce8d.png)
 
 Aşağıdaki şekilde  de mavi renk olan bölgeler labirent dışında bulunan duvar görevi gören kenarlardır. Mor kısımlarda başlangıç ve bitiş noktalarıdır Aşağı, yukarı, sağ, sol olmak üzere 4 butonlarada hareketi gerçekleştirilerek bitiş noktasına götürülür.
+
 ![image](https://user-images.githubusercontent.com/45830441/59140778-fc309a00-89aa-11e9-8bb6-28456edaa708.png)
 
 Kutu konumları  önceden tanımlanır. Kutumuz default olarak Başlangıç noktasında gösterilir.Aşağı, yukarı, sağ, sol olmak üzere 4 butonlarada hareketi gerçekleştirilerek bitiş noktasına götürülür
+
 ![image](https://user-images.githubusercontent.com/45830441/59140782-ff2b8a80-89aa-11e9-88ab-adce847751dc.png)
+
 ![image](https://user-images.githubusercontent.com/45830441/59140787-02bf1180-89ab-11e9-894e-5e2c75e80a76.png)
 
 ![image](https://user-images.githubusercontent.com/45830441/59140788-094d8900-89ab-11e9-9443-769c2c2bca56.png)
+
+
 ![image](https://user-images.githubusercontent.com/45830441/59140792-0c487980-89ab-11e9-8353-f1ac90a791d4.png)
 
 ![image](https://user-images.githubusercontent.com/45830441/59140795-123e5a80-89ab-11e9-8841-c43150903ed8.png)
