@@ -107,30 +107,57 @@ Tasarlanan engeller çizilmiştir.
 
 ![image](https://user-images.githubusercontent.com/45830441/59140800-1ff3e000-89ab-11e9-9b26-32a4a92e5a12.png)
 
-![image](https://user-images.githubusercontent.com/45830441/59140801-23876700-89ab-11e9-9a9c-296b6dfe6844.png)
 
 
+
+- Buton  kontrolleri engelde durulması bir örnek  üzerinde anlatalım.
+
+Örneğin E5 kolonunu kontrol edelim.
 
 ![image](https://user-images.githubusercontent.com/45830441/59140802-25e9c100-89ab-11e9-992b-5dd89eb31141.png)
 
+Aşağı buton ve yukarı buton  kullanıldığı zaman  E5 kolonunun koordinatları üzerine kutunun gerekli noktaları geldiği zaman herhangi hareket etmemektedir. 
+Buton hareketleri aşağıda anlatılmıştır.
+-Aşağıdaki şekilde gösterildiği gibi hareket edilmesini istediğimiz  e5 kolonu kutunun aşağıda olması durumunda yukarı buton yardımıyla hareket ettirildiği zaman kontrol yapılması gereklidir.  Kolonun yukarı kısmında olması takdirde ise aşağı buton yardımıyla hareket ettirildiği zaman kontrol yapılması gereklidir.Aynı işlem sağ sol butonla aynı mantık ile kontrolü gerçekleştirilmelidir. 
 
 ![image](https://user-images.githubusercontent.com/45830441/59140803-297d4800-89ab-11e9-85f0-78109d531f45.png)
 
-
+Yukarı durumda yapılması gereken kontrol, kutunun üst tarafı yani KareVPOS1 kısmı ile kolonun V2 aynı olduğu zaman ve kutunun  kolonun her kısmında geçmesini istemediğim için geniş skala olarak HPOS1 ve HPOS2 arası belirlenir. 
 ![image](https://user-images.githubusercontent.com/45830441/59140804-2c783880-89ab-11e9-855b-e3f333032c82.png)
 
+Aynı işlemi aşağı buton için gerçekleştirilirken kutunun üst tarafta olma durumu için kutunun KareVPOS2 ‘ nin kolonun V1 koordinatı ile aynı olma durumuna bakılır.
 ![image](https://user-images.githubusercontent.com/45830441/59140806-300bbf80-89ab-11e9-99af-005969c1e15b.png)
+
+
+- Buton Kontrolleri:
+
+1.Yukarı buton
 
 ![image](https://user-images.githubusercontent.com/45830441/59140808-3306b000-89ab-11e9-9e4e-e894a1b37a60.png)
 
 ![image](https://user-images.githubusercontent.com/45830441/59140809-369a3700-89ab-11e9-82d3-d9799cfdadea.png)
 
-![image](https://user-images.githubusercontent.com/45830441/59140810-39952780-89ab-11e9-9cc0-3f853ee32661.png)
+
+2.Aşağı Buton
+
+
+![image](https://user-images.githubusercontent.com/45830441/59140810-39952780-89ab-11e9-9cc0-3f853ee32661.png)ü
+
+
+
+3.Sol Buton
+
 
 ![image](https://user-images.githubusercontent.com/45830441/59140811-3dc14500-89ab-11e9-903d-4ad759fe0c23.png)
 
+
+
+
+4.Sağ Buton 
+
 ![image](https://user-images.githubusercontent.com/45830441/59140812-4154cc00-89ab-11e9-9a99-affcda3367ba.png)
 
+## Proje Çıktıları
 ![image](https://user-images.githubusercontent.com/45830441/59140813-44e85300-89ab-11e9-83f5-7ade07d019b5.png)
 ![image](https://user-images.githubusercontent.com/45830441/59140815-49147080-89ab-11e9-82a2-bd0c8b6950da.png)
 
