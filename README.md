@@ -38,7 +38,7 @@ Vga modları bilgisayarın çözünürlüklerine göre değişmektedir.
 ![image](https://user-images.githubusercontent.com/45830441/59140661-5d576e00-89a9-11e9-908b-5c7e4eb8c0d2.png)
 ![image](https://user-images.githubusercontent.com/45830441/59140663-621c2200-89a9-11e9-981a-5e4f39c99dfc.png)
 
-# Proje Aşamaları
+## Proje Aşamalası-1
 Projede vga  modülünü aktifleştirmek için en gerekli olan BLANK  sinyali tanımlanmalıdır. 
 
 
@@ -56,6 +56,8 @@ Aşağıdaki şekilde olduğu gibi projede gerekli tanımlamalar yapılmıştr.
 ![image](https://user-images.githubusercontent.com/45830441/59140729-2d5c9a80-89aa-11e9-8bb0-834ae5c134d2.png)
 
 
-
+## Proje Aşamalası-2
+2 kısım olarak öncelikle labirent tasarımı yapıldı  ve vhdl kodlar ile vga üzerinden
+monitöre aktarılmıştır.
 
 ![k_yukari](https://user-images.githubusercontent.com/45830441/59140611-d1454680-89a8-11e9-8359-52b104211fb0.JPG)
