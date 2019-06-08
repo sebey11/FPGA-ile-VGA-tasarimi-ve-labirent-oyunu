@@ -26,8 +26,6 @@ Red, Green ve Blue sinyallerinden oluşur.  0- 0,7 volt arasında değişen anal
 ## VGA senkronizasyonu
 ### Yatay senkronizasyon (Horizontal synchronization)
 
-
-
 - Görüntü: Görüntünün gösterildiği kısım.
 -	Geri kayma:Piksel işaretcisinin tekrar yatay olarak sol tarafa geldiği alan. Video sinyali bu kısımda ekrana basılmaması gerekir.
 -	Front porch (Geri kaydırma işleminden önceki) Ekranın sağ sınır alanı olarak tanımlanır. Video sinyali bu kısımda ekrana basılmaması gerekir.
@@ -42,5 +40,17 @@ Vga modları bilgisayarın çözünürlüklerine göre değişmektedir.
 
 # Proje Aşamaları
 Projede vga  modülünü aktifleştirmek için en gerekli olan BLANK  sinyali tanımlanmalıdır. 
+
+
+![image](https://user-images.githubusercontent.com/45830441/59140709-ed95b300-89a9-11e9-9d15-f77a4b1a11d0.png)
+
+![image](https://user-images.githubusercontent.com/45830441/59140723-22a20580-89aa-11e9-93a2-fc1a0aa908fb.png)
+
+![image](https://user-images.githubusercontent.com/45830441/59140726-27ff5000-89aa-11e9-9312-c990f51760b8.png)
+
+![image](https://user-images.githubusercontent.com/45830441/59140729-2d5c9a80-89aa-11e9-8bb0-834ae5c134d2.png)
+
+
+
 
 ![k_yukari](https://user-images.githubusercontent.com/45830441/59140611-d1454680-89a8-11e9-8359-52b104211fb0.JPG)
