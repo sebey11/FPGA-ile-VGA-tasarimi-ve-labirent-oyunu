@@ -62,11 +62,26 @@ monitöre aktarılmıştır.
 
 ![image](https://user-images.githubusercontent.com/45830441/59140771-ddca9e80-89aa-11e9-97ea-0c0b96d6f2e1.png)
 
+- Yazılımın fpga aktarılması ile ilk olarak kenar üzerinde sınırların çizilir.
+
+
+1.Üst kenar ve alt kenar  üzerinde HPOS tüm ekran üzerinde tarama yapılır VPOS ise 0 ile 150 arasında  alt kenarda da  950  üzerinde tarama gerçekleştirip çizme işlemi yapar.
+
+2.Sol kenar üzerinde 500 ve üzeri olmalıdır 500 altında ekran üzerinde herhangi bir çizim yapmamaktadır.
+
+3.Sağ kenar üzerinde VPOS  üzerinde herhangi bir aralık belirlenmeyip sadece HPOS 1600 üzerinde aralık arası tarama işlemi ile çizim yapılır.  
+
+
 ![image](https://user-images.githubusercontent.com/45830441/59140776-f5098c00-89aa-11e9-9abd-8f6e5c679af6.png)
 
+- Başlangıç ve bitiş çizgileri belirlenir.
+
 ![image](https://user-images.githubusercontent.com/45830441/59140777-f89d1300-89aa-11e9-886b-cf2786c9ce8d.png)
+
+Aşağıdaki şekilde  de mavi renk olan bölgeler labirent dışında bulunan duvar görevi gören kenarlardır. Mor kısımlarda başlangıç ve bitiş noktalarıdır Aşağı, yukarı, sağ, sol olmak üzere 4 butonlarada hareketi gerçekleştirilerek bitiş noktasına götürülür.
 ![image](https://user-images.githubusercontent.com/45830441/59140778-fc309a00-89aa-11e9-8bb6-28456edaa708.png)
 
+Kutu konumları  önceden tanımlanır. Kutumuz default olarak Başlangıç noktasında gösterilir.Aşağı, yukarı, sağ, sol olmak üzere 4 butonlarada hareketi gerçekleştirilerek bitiş noktasına götürülür
 ![image](https://user-images.githubusercontent.com/45830441/59140782-ff2b8a80-89aa-11e9-88ab-adce847751dc.png)
 ![image](https://user-images.githubusercontent.com/45830441/59140787-02bf1180-89ab-11e9-894e-5e2c75e80a76.png)
 
