@@ -95,8 +95,9 @@ Aşağıdaki şekilde kutunun default olarak başlangıç konumda gelmektedir.
 
 Tasarlanan engeller çizilmiştir.
 
+![image](https://user-images.githubusercontent.com/45830441/59140801-23876700-89ab-11e9-9a9c-296b6dfe6844.png)
 
-![image](https://user-images.githubusercontent.com/45830441/59140803-297d4800-89ab-11e9-85f0-78109d531f45.png)
+
 
 ![image](https://user-images.githubusercontent.com/45830441/59140795-123e5a80-89ab-11e9-8841-c43150903ed8.png)
 
@@ -113,6 +114,7 @@ Tasarlanan engeller çizilmiştir.
 ![image](https://user-images.githubusercontent.com/45830441/59140802-25e9c100-89ab-11e9-992b-5dd89eb31141.png)
 
 
+![image](https://user-images.githubusercontent.com/45830441/59140803-297d4800-89ab-11e9-85f0-78109d531f45.png)
 
 
 ![image](https://user-images.githubusercontent.com/45830441/59140804-2c783880-89ab-11e9-855b-e3f333032c82.png)
